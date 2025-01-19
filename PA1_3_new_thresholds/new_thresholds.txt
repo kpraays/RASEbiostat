@@ -1,0 +1,13 @@
+PA 1: new MVPA1 throushold is 100mg, instead of our original 125
+	: new MVPA2 threshold is 150mg
+ 
+PA2: is done (already)
+
+PA3: apply the same thresholds on L2 norm using x,y,z
+PA3: we used x-axis for thesholding, now apply thesholding using combined x,y,z
+Combine them using L2 norm as follows: sqrt(x^2 + y^2 + Z^2)
+Apply same thresholds on L2 norm
+
+Needed to get upto speed on codebase.
+ 
+Beluga will not be working till Jan 31 but we have alternatives. I used Narval to run our calculations using UK BioBank dataset.
